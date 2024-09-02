@@ -1,1 +1,6 @@
-{ "auto-upgrade": "false" }
+{
+  "auto-check-in": "true",
+  "auto-do-task": "true",
+  "auto-claim": "true",
+  "auto-upgrade": "false"
+}
