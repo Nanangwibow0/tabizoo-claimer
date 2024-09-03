@@ -17,6 +17,19 @@
 | -------------------------------- | ------------------- |
 | `bot-proxy.py` `data-proxy.json` | `bot.py` `data.txt` |
 
+```
+git clon https://github.com/Nanangwibow0/tabizoo-claimer.git
+cd tabizoo-claimer
+python -m venv venv
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+nano data.txt
+```
+## Run
+```
+python bot.py
+```
 
 ## ⚠️ Note
 
