@@ -18,7 +18,7 @@
 | `bot-proxy.py` `data-proxy.json` | `bot.py` `data.txt` |
 
 ```
-git clon https://github.com/Nanangwibow0/tabizoo-claimer.git
+git clone https://github.com/Nanangwibow0/tabizoo-claimer.git
 cd tabizoo-claimer
 ```
 
