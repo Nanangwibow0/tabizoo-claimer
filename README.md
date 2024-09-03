@@ -1,13 +1,6 @@
 # TabiZoo - Auto Claim Bot
 
-🔗 **Referral Link**: [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=A1gqF1)
-
-## 📢 Telegram Group
-
-Join our Telegram group to stay updated and get instructions on how to use this tool:
-
-- [Smart Airdrop](https://t.me/smartairdrop2120)
-- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
+🔗 **Referral Link**: [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=1447217990)
 
 ## 🌟 Features
 
@@ -24,10 +17,12 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 | -------------------------------- | ------------------- |
 | `bot-proxy.py` `data-proxy.json` | `bot.py` `data.txt` |
 
+
 ## ⚠️ Note
 
 - Get auth data in the `Network` tab in DevTools.
   - `Network` --> Filter `profile` or `info` --> `Request Headers` --> `Rawdata`
   - Starts with `query_id=...`
 - Auto features: Change `false` to `true` in the `config.json` file.
-- Supported commands: `/run_bot` `/proxy` `/proxy_web` (Join group to use these commands).
+- Supported commands: `/run_bot` `/proxy` `/proxy_web`.
+- SOURCE [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=1447217990)
