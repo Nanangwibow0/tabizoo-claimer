@@ -34,7 +34,9 @@ pip install -r requirements.txt
 
 nano data.txt
 ```
+
 ## Run
+
 ```
 python bot.py
 ```
